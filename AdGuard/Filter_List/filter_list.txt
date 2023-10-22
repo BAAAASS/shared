@@ -1,0 +1,25 @@
+!
+! Title: AdGuard DNS filter
+! Description: My personal list of sites to block to ensure privacy and prevent ads.
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2023-10-22T14:10:20.564Z
+!
+! Compiled by @BAAAASS
+!
+!
+! Source name: AdGuard DNS filter
+! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!
+! Examples:
+! ||example.org^:block access to example.org and all its subdomains;
+! @@||example.org^:unblock access to example.org and all its subdomains;
+! 127.0.0.1 example.org:respond with 127.0.0.1 for example.org (but not for its subdomains);
+! # Also a comment.:just a comment;
+! /REGEX/:block access to domains matching the specified regular expression.
+!
+!
+!
+||.cn^
+||dbankcloud.com^
+||dbankcloud.ru^
+||hicloud.com^
