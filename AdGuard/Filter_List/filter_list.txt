@@ -23,3 +23,6 @@
 ||dbankcloud.com^
 ||dbankcloud.ru^
 ||hicloud.com^
+||ccpce-de.consumer.huawei.com^
+||firebaseinstallations.googleapis.com^
+||infinitedata-pa.googleapis.com^
