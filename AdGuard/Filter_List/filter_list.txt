@@ -26,3 +26,9 @@
 ||ccpce-de.consumer.huawei.com^
 ||firebaseinstallations.googleapis.com^
 ||infinitedata-pa.googleapis.com^
+||msh.amazon.co.uk^
+||arcus-uswest.amazon.com^
+||mads-eu.amazon.com^
+||googleadservices.com^
+||b-graph.facebook.com^
+||assets.adobedtm.com^
